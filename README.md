@@ -17,8 +17,8 @@
 4. Scripts de **implementación de la base de datos** en PostgreSQL
 5. Carpeta de imágenes que contienen las consultas de **prueba**, **eliminaciones** y **actualizaciones** de los datos de las diferentes tablas creadas, que reflejan casos de **disparadores**, **aserciones** y **checks**.
 ### Modelo Entidad-Relación
-![](https://raw.githubusercontent.com/CristopherAfonso/ADBD-Proyecto-Final/main/Diagramas/ZoologicoDiagramaE-R.png)
+![](https://raw.githubusercontent.com/CristopherAfonso/ADBD-Proyecto-Final/main/diagramas/ZoologicoDiagramaE-R.png)
 ### Modelo Relacional 1
-![](https://raw.githubusercontent.com/CristopherAfonso/ADBD-Proyecto-Final/main/Diagramas/ZoologicoDiagramaRelacional1.png)
+![](https://raw.githubusercontent.com/CristopherAfonso/ADBD-Proyecto-Final/main/diagramas/ZoologicoDiagramaRelacional1.png)
 ### Modelo Relacional 2
-![](https://raw.githubusercontent.com/CristopherAfonso/ADBD-Proyecto-Final/main/Diagramas/ZoologicoDiagramaRelacional2.png)
+![](https://raw.githubusercontent.com/CristopherAfonso/ADBD-Proyecto-Final/main/diagramas/ZoologicoDiagramaRelacional2.png)
